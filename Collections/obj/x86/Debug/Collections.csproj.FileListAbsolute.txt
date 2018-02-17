@@ -1,0 +1,5 @@
+D:\Practice\Collections\Collections\bin\Debug\Collections.exe
+D:\Practice\Collections\Collections\bin\Debug\Collections.pdb
+D:\Practice\Collections\Collections\obj\x86\Debug\Collections.exe
+D:\Practice\Collections\Collections\obj\x86\Debug\Collections.pdb
+D:\Practice\Collections\Collections\obj\x86\Debug\Collections.csprojResolveAssemblyReference.cache
